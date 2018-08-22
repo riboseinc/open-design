@@ -1,7 +1,7 @@
-= Ribose Open site designs
+= Ribose Open project designs
 
 This repo holds design artifacts for the Ribose Open sites, using an
-"open design" process.
+"`open design`" process.
 
 This document specifies the intention of the Ribose Open site and some
 points of interest for the designer to consider.
@@ -105,9 +105,16 @@ The purpose of the "`Ribose Open`" landing page is to:
 
 This is the logo for the hub site. PNG, SVG versions provided here.
 
-image::images/logos/riboseopen-logo-color.png[]
+image::riboseopen/logos/riboseopen-logo-color.png[]
+
+
+=== Metanorma Logo
+
+This is the logo for the hub site. PNG, SVG versions provided here.
+
+image::metanorma/logos/metanorma-logo-dark.png[]
 
 
 == Copyright notice
 
-Copyright of all content and assets. All rights reserved. Ribose Inc.
+All rights reserved. Copyright of all content and assets Ribose Inc.
